@@ -1,1 +1,1 @@
-# secretearning.girhub.io
+# secretearning.github.io
